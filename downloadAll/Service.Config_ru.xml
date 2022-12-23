@@ -23,24 +23,25 @@
   LastUpdateRecived="00"
   ThreIsNewChanges="false"
   LastConfigRead="2021-06-04T11:31:41.1204668+03:00">
-  <Users>
+<Users>
     <user
       name="user1"
       chatId="909020089"
       waitForAnswerSec="0"
       sendMessageBeforeDisconnectSec="0"
       disconnectIfNoAnswer="true"
-      notDisconnectIP=""
+      notDisconnectIP="console"
       CanChangeIP="true"
-      IsAdmin="true" />
+      IsAdmin="false" />
     <user
       name="user2"
       chatId="1638765616"
       waitForAnswerSec="0"
       sendMessageBeforeDisconnectSec="0"
       disconnectIfNoAnswer="true"
-      notDisconnectIP=""
+      notDisconnectIP="console"
       CanChangeIP="true"
-      IsAdmin="true" />
+      IsAdmin="false" />
     </Users>
 </ServiceConfig>
+
