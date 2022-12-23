@@ -12,7 +12,7 @@
   disconnectIfNoAnswer="true"
   notDisconnectIP="console"
   CommandReadIntervalSec="30"
-  SingleServiceOnTheBot="false"
+  SingleServiceOnTheBot="true"
   ClearTelegramRequestsAfterSeconds="120"
   LinesPerSessionInTaskList="10"
   systemInfoOnStartFields="OS Name;System Boot Time;Total Physical Memory;Available Physical Memory"
