@@ -10,7 +10,7 @@
   waitForAnswerSec="20"
   sendMessageBeforeDisconnectSec="15"
   disconnectIfNoAnswer="true"
-  notDisconnectIP=""
+  notDisconnectIP="console"
   CommandReadIntervalSec="30"
   SingleServiceOnTheBot="false"
   ClearTelegramRequestsAfterSeconds="120"
@@ -30,17 +30,18 @@
       waitForAnswerSec="0"
       sendMessageBeforeDisconnectSec="0"
       disconnectIfNoAnswer="true"
-      notDisconnectIP=""
+      notDisconnectIP="console"
       CanChangeIP="true"
-      IsAdmin="true" />
+      IsAdmin="false" />
     <user
       name="user2"
       chatId="1638765616"
       waitForAnswerSec="0"
       sendMessageBeforeDisconnectSec="0"
       disconnectIfNoAnswer="true"
-      notDisconnectIP=""
+      notDisconnectIP="console"
       CanChangeIP="true"
-      IsAdmin="true" />
+      IsAdmin="false" />
     </Users>
 </ServiceConfig>
+
