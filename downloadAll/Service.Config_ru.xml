@@ -10,7 +10,7 @@
   waitForAnswerSec="20"
   sendMessageBeforeDisconnectSec="15"
   disconnectIfNoAnswer="true"
-  notDisconnectIP=""
+  notDisconnectIP="console"
   CommandReadIntervalSec="30"
   SingleServiceOnTheBot="false"
   ClearTelegramRequestsAfterSeconds="120"
