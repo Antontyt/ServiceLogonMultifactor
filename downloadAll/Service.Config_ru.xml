@@ -3,7 +3,7 @@
   botId="1705365690:AAF**************************"
   chatId="909020089"
   RdgVpnServersList="192.168.0.1:1200;"
-  RdgVpnServersTimeoutMs="3000"
+  RdgVpnServersTimeoutMs="3001"
   DetailInfoOnServiceStart="false"
   daysOldDeliteLogs="0"
   logsLevel="13"
